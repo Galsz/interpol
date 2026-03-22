@@ -4,7 +4,7 @@ Implementação conforme specs.md.
 
 Uso:
   1. Coloque suas imagens na pasta 'input/'
-  2. Instale as dependências (caso ainda não tenha): pip install -r requirements.txt
+  2. Instale as dependências (caso ainda não tenha): pip install -r requirements.txt ou pip install Pillow numpy
   3. Execute: python main.py
   4. Resultados ficam em 'output/<nome_da_imagem>/'
 """
